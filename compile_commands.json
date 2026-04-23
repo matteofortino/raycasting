@@ -1,0 +1,20 @@
+[
+  {
+    "file": "main.cpp",
+    "arguments": [
+      "clang++",
+      "-std=c++20",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-I/opt/homebrew/include",
+      "-I/opt/homebrew/include/SDL2",
+      "-c",
+      "main.cpp",
+      "-o",
+      "main.o"
+    ],
+    "directory": "/Users/matteofortino/Code/SDL_projects/raycasting",
+    "output": "main.o"
+  }
+]
